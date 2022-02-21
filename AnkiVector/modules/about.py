@@ -10,4 +10,4 @@ Code From [Anki Vector Bot](https://github.com/Damantha126/The-Anki-Vector)
 
 **~ @NipunGroupBot**
 """
-__mod_name__ = "♠️About♠️"
+__mod_name__ = "🌹About🌹"
