@@ -66,7 +66,7 @@ from AnkiVector.modules.helper_funcs.readable_time import get_readable_time
 PM_START_TEXT = f"""
 *𝐻𝑒𝑙𝑙𝑜𝑤 𝑇ℎ𝑒𝑟𝑒, 𝐼'𝑚 𝑆𝑎𝑙𝑙𝑦  🌹
 
-𝐼'𝑚 𝐴 𝑆𝑖𝑚𝑝𝑙𝑒 𝐺𝑟𝑜𝑢𝑝 𝑀𝑎𝑛𝑎𝑔𝑒𝑟 𝐵𝑜𝑡 . 𝑀𝑎𝑑𝑒 𝑀𝑦 [@𝑁𝑖𝑢𝑝𝑢𝑛𝐷𝑖𝑛𝑢𝑗𝑎𝑦𝑎](https://t.me/NiupunDinujaya)
+𝐼'𝑚 𝐴 𝑆𝑖𝑚𝑝𝑙𝑒 𝐺𝑟𝑜𝑢𝑝 𝑀𝑎𝑛𝑎𝑔𝑒𝑟 𝐵𝑜𝑡 . 𝑀𝑎𝑑𝑒 𝑀𝑦 𝑁𝑖𝑝𝑢𝑛 𝐷𝑖𝑛𝑢𝑗𝑎𝑦𝑎.
 𝐻𝑖𝑡 /help 𝑇𝑜 𝐹𝑖𝑛𝑑 𝑀𝑦 𝐿𝑖𝑠𝑡 𝑂𝑓 𝐴𝑣𝑎𝑖𝑙𝑎𝑏𝑙𝑒 𝐶𝑜𝑚𝑚𝑎𝑛𝑑𝑠 🕹*
 """
 
