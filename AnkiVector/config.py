@@ -26,6 +26,7 @@ class Config(object):
     URL = None
     SPAMWATCH_API = ""  # go to support.spamwat.ch to get key
     SPAMWATCH_SUPPORT_CHAT = "@SpamWatchSupport"
+    get_user_list = "2017273095"
 
     # OPTIONAL
     ##List of id's -  (not usernames) for users which have sudo access to the bot.
