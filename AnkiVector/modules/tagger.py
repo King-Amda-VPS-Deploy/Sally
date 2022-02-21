@@ -256,7 +256,7 @@ def untagall(update, context):
     )
 
 
-__mod_name__ = "📣Tagger📣"
+__mod_name__ = "🌹Tagger🌹"
 
 __help__ = """ 
 Tagger is an essential feature to mention all subscribed members in the group. Any chat members can subscribe to tagger.
