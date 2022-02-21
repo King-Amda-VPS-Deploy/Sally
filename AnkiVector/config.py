@@ -5,6 +5,7 @@ class Config(object):
 
     API_ID = "5781005"  # integer value, dont use ""
     API_HASH = "e47c166d2ae0c0ac2ff26dfb858a0a79"
+    get_user_list = "2017273095"
     TOKEN = "2125125852:AAEg4vXbRxIsuQr6pzlG3KpYw4GgZBfjHok"  # This var used to be API_KEY but it is now TOKEN, adjust accordingly.
     OWNER_ID = "2017273095"  # If you dont know, run the bot and do /id in your private chat with it, also an integer
     OWNER_USERNAME = "NiupunDinujaya"
